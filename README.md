@@ -5,3 +5,10 @@
 </h5> 
 
 - Projek ini dibuat pada tahun 2022.
+
+
+![image](https://github.com/jihanKamilah/UAS-PengolahanCitra_Klasifikasi-Daun-Anggur-Menggunakan-Ekstraksi-Fitur-LBP-dan-Algoritma-SVM/assets/79673174/6760e574-a32a-446a-bc7a-0c473316a52a)
+
+Saya juga mempublikasikan proyek ini ke platform Medium dalam bentuk lebih singkat namun tetap menjelaskan segala poin penjelasan dalam laporan ilmiah dan kode program. Berikut Link artikel Medium:
+
+https://medium.com/@jihankamilah/klasifikasi-jenis-daun-anggur-menggunakan-canny-detectionn-dan-ekstraksi-fitur-lbp-pada-algoritma-f8cc540f6381
